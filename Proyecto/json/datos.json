@@ -1,0 +1,61 @@
+{  
+   "name":"FPS DAW DUAL","description":"Grado Superios de Desarrollo Web. IES Borjamoll",
+   "children":[  
+      {  
+         "name":"1º Año","description":"2012 - 2013",
+         "children":[  
+            {  
+               "name":"Alumnos","description":"Empiezan 15 alumnos. A empresa van 12"
+            },
+            {  
+               "name":"Empresas","description":"Número de empresas: 6. Plazas: 9"
+            }
+         ]
+      }, 
+	  {  
+         "name":"2º Año","description":"2013 - 2014",
+         "children":[  
+            {  
+               "name":"Alumnos","description":"Empiezan 15 alumnos. A empresa van 10"
+            },
+            {  
+               "name":"Empresas","description":"Número de empresas: 10. Plazas: 15"
+            }
+         ]
+      },
+	  {  
+         "name":"3º Año","description":"2014 - 2015",
+         "children":[  
+            {  
+               "name":"Alumnos","description":"Empiezan 14 alumnos. A empresa van 10"
+            },
+            {  
+               "name":"Empresas","description":"Número de empresas: 10. Plazas: 15"
+            }
+         ]
+      },
+	  {  
+         "name":"4º Año","description":"2015 - 2016",
+         "children":[  
+            {  
+               "name":"Alumnos","description":"Empiezan 8 alumnos. A empresa van 7"
+            },
+            {  
+               "name":"Empresas","description":"Número de empresas: 15. Plazas: 22"
+            }
+         ]
+      },
+	  {  
+         "name":"5º Año","description":"2016 - 2017",
+         "children":[  
+            {  
+               "name":"Alumnos","description":"Empiezan 23 alumnos. A empresa van ¿?"
+            },
+            {  
+               "name":"Empresas","description":"Número de empresas: 15. Plazas: 41"
+            }
+         ]
+      }
+	  
+	] 
+}

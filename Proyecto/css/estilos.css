@@ -1,0 +1,46 @@
+svg {
+    border: 1px solid #aaa;
+}
+
+.node circle {
+  fill: white;
+  stroke:  #396 ;
+  stroke-width: 1.5px;
+}
+
+.node {
+  font: 10px Helvetica;
+}
+
+.link {
+  fill: none;
+  stroke: #990;
+  stroke-width: 1.5px;
+}
+
+.node circle:hover {
+  fill: #396;
+  stroke:  #990 ;
+  stroke-width: 1.5px;
+}
+
+
+
+div.tooltip {
+	position: absolute;
+	text-align: center;
+	width: 60px;
+	height: 28px;
+	padding: 2px;
+	font: 12px sans-serif;
+	background: #396;
+	border: 0px;
+	border-radius: 8px;
+	pointer-events: none;
+}
+
+
+
+
+
+
